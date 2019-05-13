@@ -7,6 +7,10 @@ module ManageIQ
       def vmdb_plugin?
         true
       end
+
+      def self.plugin_name
+        _('Decorators')
+      end
     end
   end
 end
