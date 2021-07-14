@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.699999 12.7"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-0.29640123,-2.7772821)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.13883px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.261569"
+       x="0.064404935"
+       y="8.0753698"
+       id="text1551"
+       transform="scale(0.9886071,1.0115242)"><tspan
+         id="tspan1549"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.13883px;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono Bold';fill:#0099d3;fill-opacity:1;stroke-width:0.261569"
+         x="0.064404935"
+         y="8.0753698">IBM</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.13883px;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono Bold';fill:#0099d3;fill-opacity:1;stroke-width:0.261569"
+         x="0.064404935"
+         y="12.06242"
+         id="tspan1553">PowerVC</tspan></text>
+  </g>
+</svg>
