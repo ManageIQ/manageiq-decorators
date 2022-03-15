@@ -4,7 +4,7 @@ class HostDecorator < MiqDecorator
   end
 
   def fileicon
-    "svg/vendor-#{vmm_vendor_display.downcase}.svg"
+    "svg/vendor-#{vmm_vendor.downcase}.svg"
   end
 
   def quadicon
