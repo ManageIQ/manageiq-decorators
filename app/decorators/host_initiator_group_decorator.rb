@@ -1,6 +1,6 @@
-class VolumeMappingDecorator < MiqDecorator
+class HostInitiatorGroupDecorator < MiqDecorator
   def self.fonticon
-    'pficon pficon-topology'
+    'ff ff-relationship'
   end
 
   def quadicon
