@@ -1,4 +1,5 @@
 require "manageiq/decorators/engine"
+require "manageiq/decorators/version"
 
 module ManageIQ
   module Decorators
