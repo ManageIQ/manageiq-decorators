@@ -1,12 +1,12 @@
 # ManageIQ::Decorators
 
-[![CI](https://github.com/ManageIQ/manageiq-decorators/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-decorators/actions/workflows/ci.yaml)
+[![CI](https://github.com/ManageIQ/manageiq-decorators/actions/workflows/ci.yaml/badge.svg?branch=quinteros)](https://github.com/ManageIQ/manageiq-decorators/actions/workflows/ci.yaml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/1c205c246f7adf07c4c2/maintainability)](https://codeclimate.com/github/ManageIQ/manageiq-decorators/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/1c205c246f7adf07c4c2/test_coverage)](https://codeclimate.com/github/ManageIQ/manageiq-decorators/test_coverage)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq/ui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-decorators?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-decorators/actions?query=branch%3Amaster)
+[![Build history for quinteros branch](https://buildstats.info/github/chart/ManageIQ/manageiq-decorators?branch=quinteros&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-decorators/actions?query=branch%3Amaster)
 
 Model decorators with the related SVG assets for ManageIQ.
 
