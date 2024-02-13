@@ -23,7 +23,7 @@ class ServiceTemplateDecorator < MiqDecorator
       :title     => t = v ? _("Order this Service") : _("This Service cannot be ordered"),
       :alt       => t,
       :disabled  => !v,
-      :onclick   => "miqOrderService(\"#{id}\");"
+      :onclick   => {:remote => true, :url => "/catalog/x_button/#{id}?pressed=svc_catalog_provision"}
     }
   end
 end
