@@ -1,8 +1,6 @@
 # ManageIQ::Decorators
 
 [![CI](https://github.com/ManageIQ/manageiq-decorators/actions/workflows/ci.yaml/badge.svg?branch=master)](https://github.com/ManageIQ/manageiq-decorators/actions/workflows/ci.yaml)
-[![Maintainability](https://api.codeclimate.com/v1/badges/1c205c246f7adf07c4c2/maintainability)](https://codeclimate.com/github/ManageIQ/manageiq-decorators/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/1c205c246f7adf07c4c2/test_coverage)](https://codeclimate.com/github/ManageIQ/manageiq-decorators/test_coverage)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq/ui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
