@@ -17,6 +17,7 @@ module QuadiconHelper
     'non_operational'           => {:fonticon => 'fa fa-exclamation', :background => '#336699'},
     'not_responding'            => {:fonticon => 'fa fa-exclamation', :background => '#336699'},
     'install_failed'            => {:fonticon => 'fa fa-exclamation', :background => '#336699'},
+    'error'                     => {:fonticon => 'pficon pficon-error-circle-o', :background => '#CC0000'},
     'suspended'                 => {:fonticon => 'pficon pficon-asleep', :background => '#FF9900'},
     'standby'                   => {:fonticon => 'pficon pficon-asleep', :background => '#FF9900'},
     'paused'                    => {:fonticon => 'pficon pficon-asleep', :background => '#FF9900'},
